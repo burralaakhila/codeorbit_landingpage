@@ -16,4 +16,4 @@ A responsive landing page built as part of the CodeOrbit Tech Full Stack Develop
 1. Clone or download this repository to your local machine.
 2. Open the `public/index.html` file in any modern web browser to view the landing page.
 3. To view the local server setup (if applicable), open your terminal in the project directory, run `node server.js`, and visit `http://localhost:3000`.
-4.
+
